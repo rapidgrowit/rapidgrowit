@@ -16,7 +16,7 @@ TechVance is an innovative software development company specializing in deliveri
 
 ## 🛠 Technologies We Use
 
-![Technologies](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,aws,git,tailwind,ant)
+![Technologies](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,aws,git,tailwind,nextjs,postgres,docker)
 
 ## 📂 Our Projects
 
