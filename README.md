@@ -1,8 +1,8 @@
-# Welcome to TechVance!
+# Welcome to RapidGrowIt!
 
 ## 🚀 About Us
 
-TechVance is an innovative software development company specializing in delivering cutting-edge web and mobile solutions. Our goal is to empower businesses with technology-driven solutions to enhance efficiency and achieve their goals.
+RapidGrowIt is an innovative software development company specializing in delivering cutting-edge web and mobile solutions. Our goal is to empower businesses with technology-driven solutions to enhance efficiency and achieve their goals.
 
 ## 🔧 Our Services
 
@@ -38,10 +38,10 @@ We welcome contributions from the open-source community! Feel free to explore ou
 
 ## 📞 Contact Us
 
-- 📧 Email: [contact@techvance.com](#)
-- 🌐 Website: [www.techvance.com](#)
-- 🐦 Twitter: [@TechVanceHQ](#)
-- 🔗 LinkedIn: [TechVance](#)
+- 📧 Email: [contact@rapidgrowit.com](#)
+- 🌐 Website: [www.rapidgrowit.com](#)
+- 🐦 Twitter: [@rapidgrowit](#)
+- 🔗 LinkedIn: [rapidgrowit](#)
 
 ## 📜 License
 
